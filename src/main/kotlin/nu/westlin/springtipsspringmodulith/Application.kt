@@ -4,8 +4,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class SpringTipsSpringModulithApplication
+class Application
 
 fun main(args: Array<String>) {
-    runApplication<SpringTipsSpringModulithApplication>(*args)
+    runApplication<Application>(*args)
 }
